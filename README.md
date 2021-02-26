@@ -1,9 +1,7 @@
-### Hi there 👋 My name is Mark Heijnekamp
-
-#### I am currently working on a project with: 
-##### - Frontend:ReactJS 
-##### - Backend:Rust 
-##### - Database:PostgreSQL
+### I am currently working on a project with: 
+#### - Frontend:ReactJS 
+#### - Backend:Rust 
+#### - Database:PostgreSQL
 
 #### My top used languages out of my public repo's are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHunterDog&theme=onedark)
