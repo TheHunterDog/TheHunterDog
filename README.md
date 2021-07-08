@@ -1,4 +1,4 @@
 ### I am currently working on a project with: 
-#### - Frontend:ReactJS 
+#### - Frontend:ReactJS Or not
 #### - Backend:Rust or Ruby
-#### - Database:PostgreSQL
+#### - Database:PostgreSQL or Sqlite
